@@ -1,4 +1,4 @@
-# Welcome to your IoT Control 👋
+# Welcome to IoT Control 👋
 
 This is an internet of things controller maked by FMTDevs.
 Was builded in Expo React Native
